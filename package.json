@@ -28,7 +28,7 @@
     "homepage": "https://github.com/aliyun/ack-set-context#readme",
     "dependencies": {
         "@actions/core": "^1.11.1",
-        "@alicloud/pop-core": "^1.7.13"
+        "@alicloud/pop-core": "^1.8.0"
     },
     "devDependencies": {
         "@vercel/ncc": "^0.38.3",
